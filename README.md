@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**a24yaniravc/a24yaniravc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and love to work on interesting projects. Here's a little bit about me and what you'll find in my repositories.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Kotling, Java and Python.
+- 😄 Pronouns: She/They
+
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=a24yaniravc&show_icons=true&theme=dracula)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a24yaniravc&layout=compact&theme=dracula)
