@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## About Me
 
-- 🌱 I’m currently learning Kotling, Java and Python.
-- 😄 Pronouns: She/They
+- I’m currently learning Kotling, Java and Python.
+- Pronouns: She/They
 
 ## My GitHub Stats
 
