@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a24yaniravc&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=a24yaniravc&show_icons=true&theme=dracula
+[[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a24yaniravc&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=a24yaniravc&show_icons=true&theme=dracula
+)](https://github-readme-stats.vercel.app/api?username=a24yaniravc&show_icons=true&theme=react
 )
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a24yaniravc&layout=compact&theme=dracula)
